@@ -1,2 +1,2 @@
-# Projekt_sprint-
-Website til projekt 1.1
+# Sprint projekt 
+Landingpage site til projekt 1.1
